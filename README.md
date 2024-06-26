@@ -2,8 +2,7 @@
 > Lending Club is a finance company that provides various loans to city customers. 
 The company has a major issue with its loan approval process. 
 They need to make smart decisions to avoid losing money, especially from "risky" borrowers.
-
-These losses, known as credit losses, occur when borrowers fail to repay their loans. 
+Losses occur when borrowers fail to repay their loans. 
 Borrowers who don't repay are called "charged-off" and cause the most significant losses.
 
 
@@ -90,10 +89,10 @@ The main goal of this task is to help Lending Club reduce these credit losses. T
 
 
 ## Technologies Used
-Python 3.12.0
-numpy - 1.20.3
-matplotlib - 3.4.3
-seaborn - 0.11.2
+* Python 3.12.0
+* numpy - 1.20.3
+* matplotlib - 3.4.3
+* seaborn - 0.11.2
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
